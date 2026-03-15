@@ -32,8 +32,6 @@ Concepts used:
 - Functions
 - Loops
 
-## File
-- `weather_bank_case_study.ipynb` – Google Colab notebook containing both programs.
 
 ## Author
 Anoop
